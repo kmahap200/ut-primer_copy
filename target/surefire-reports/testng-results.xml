@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.formlessvoid.games.dice.DieTest" duration-ms="13" started-at="2017-05-29T23:25:59Z" finished-at="2017-05-29T23:25:59Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="13" started-at="2017-05-29T23:25:59Z" finished-at="2017-05-29T23:25:59Z">
+      <class name="com.formlessvoid.games.dice.DieTest">
+        <test-method status="PASS" signature="testDie()[pri:0, instance:com.formlessvoid.games.dice.DieTest@1134affc]" name="testDie" duration-ms="6" started-at="2017-05-29T16:25:59Z" finished-at="2017-05-29T16:25:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDie -->
+      </class> <!-- com.formlessvoid.games.dice.DieTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.formlessvoid.games.dice.DieTest -->
+</testng-results>

@@ -1,0 +1,9 @@
+com/formlessvoid/games/cards/StandardDeck$StandardDeckBuilder.class
+com/formlessvoid/games/cards/Deck.class
+com/formlessvoid/games/cards/Card.class
+com/formlessvoid/games/cards/StandardDeck$CompareRules.class
+com/formlessvoid/games/cards/StandardDeck$1.class
+com/formlessvoid/games/dice/Die.class
+com/formlessvoid/games/dice/FuzzyDie.class
+com/formlessvoid/games/cards/StandardDeck$AceRules.class
+com/formlessvoid/games/cards/StandardDeck.class
